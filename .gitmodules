@@ -1,0 +1,3 @@
+[submodule "textgost7.32-2001"]
+	path = textgost7.32-2001
+	url = git@github.com:jollheef/textgost7.32-2001
